@@ -1,0 +1,38 @@
+{
+    "team1_player_1" : {
+        "id": 1,
+        "name": "Jose Altuve"
+    },
+    "team1_player_2" : {
+        "id": 2,
+        "name": "Carlos Correa"
+    },
+    "team1_player_3" : {
+        "id": 3,
+        "name": "Alex Bregman"
+    },
+    "team2_player_4" : {
+        "id": 4,
+        "name": "Aaron Judge"
+    },
+    "team2_player_5" : {
+        "id": 5,
+        "name": "Gleyber Torres"
+    },
+    "team2_player_6" : {
+        "id": 6,
+        "name": "Gio Urshella"
+    },
+    "team3_player_7" : {
+        "id": 7,
+        "name": "Mooky Betts"
+    },
+    "team3_player_8" : {
+        "id": 8,
+        "name": "Michael Chavis"
+    },
+    "team3_player_9" : {
+        "id": 9,
+        "name": "JD Martinez"
+    }
+}

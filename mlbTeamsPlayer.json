@@ -1,0 +1,62 @@
+{
+   "mlb_team1" : {
+       "id": 1,
+       "name": "Houston Astros",
+       "league": "American League",
+       "stadium": "Minute Maid Park",
+       "address": "501 Crawford Street Houston, TX 77002",
+       "phone": "(713) 259-8000",
+       "website": "astros.com",
+       "logoimg": "houstonLogo.jpg",
+       "players":  [{
+            "id": 1,
+            "name": "Jose Altuve"
+         }, {
+            "id": 2,
+            "name": "Carlos Correa"
+         }, {
+            "id": 3,
+            "name": "Alex Bregman"
+         }]
+    },
+    "mlb_team2" : {
+        "id" : 2,
+        "name" : "New York Yankees",
+        "league" : "American League",
+        "stadium": "Yankee Stadium",
+        "address" : "One East 161st Street Bronx, NY 10451",
+        "phone" : "(718) 293-4300",
+        "website": "yankees.com",
+        "logoimg": "newyorkLogo.jpg",
+        "players":  [{
+            "id": 4,
+            "name": "Aaron Judge"
+         }, {
+            "id": 5,
+            "name": "Gleyber Torres"
+         }, {
+            "id": 6,
+            "name": "Gio Urshella"
+         }]
+     },
+     "mlb_team3" : {
+        "id" : 3,
+        "name" : "Boston Red Sox",
+        "league" : "American League",
+        "stadium": "Fenway Park",
+        "address" : "4 Jersey Street Boston, MA 02215",
+        "phone" : "(617) 267-9440",
+        "website": "redsox.com",
+        "logoimg": "bostonLogo.jpg",
+        "players":  [{
+            "id": 7,
+            "name": "Mooky Betts"
+         }, {
+            "id": 8,
+            "name": "Michael Chavis"
+         }, {
+            "id": 9,
+            "name": "JD Martinez"
+         }]
+     }
+ }
